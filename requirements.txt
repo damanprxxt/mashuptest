@@ -1,0 +1,11 @@
+streamlit 
+smtplib
+zipfile
+email.mime.multipart 
+email.mime.application
+pytube
+pydub 
+urllib.request
+re
+os
+sys
